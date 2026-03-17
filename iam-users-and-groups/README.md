@@ -20,3 +20,20 @@ I created IAM users and groups in AWS and assigned permissions.
 
 ## Notes
 This lab helped me understand how AWS handles users and permissions.
+
+## Screenshots
+
+### IAM Dashboard
+![IAM Dashboard](iam-dashboard.png)
+
+### User Created
+![User Created](user-created.png)
+
+### Group Created
+![Group Created](group-created.png)
+
+### Permissions
+![Permissions](permissions.png)
+
+### User in Group
+![User in Group](user-in-group.png)
