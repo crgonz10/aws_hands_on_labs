@@ -4,8 +4,8 @@ This repository documents my hands-on practice with AWS services as I learn clou
 
 ## Labs Completed
 - EC2 Instance Launch
-- S3 Static Website
-- IAM User Setup (coming soon)
+- IAM User Setup 
+- S3 Static Website (coming soon)
 
 ## Goal
 To build real-world AWS skills and transition into a cloud/tech career.
