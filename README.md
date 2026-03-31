@@ -12,6 +12,7 @@ This repository documents my hands-on AWS labs as I build foundational cloud ski
 - Amazon VPC
 - Security Groups
 - Static Website Hosting
+- Amazon DynamoDB
 
 ---
 
