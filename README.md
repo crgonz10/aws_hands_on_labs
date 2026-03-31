@@ -17,21 +17,21 @@ This repository documents my hands-on AWS labs as I build foundational cloud ski
 
 ## Labs
 
-### EC2 Instance Launch
+### [EC2 Instance Launch](./ec2-launch-instance)
 - Launched and configured an EC2 instance
 - Reviewed instance settings, networking, and security groups
 - Practiced basic compute concepts
 
-### IAM Users and Groups
+### [IAM Users and Groups](./iam-users-and-groups)
 - Created IAM users and groups
 - Applied permissions and least-privilege concepts
 - Practiced account security fundamentals
 
-### S3 Static Website
+### [S3 Static Website](./s3-static-website)
 - Configured S3 for static website hosting
 - Reviewed bucket permissions and object storage concepts
 
-### VPC Basics
+### [VPC Basics](./vpc-basics)
 - Explored VPC structure, subnets, and network concepts
 - Reviewed how resources communicate inside AWS
 
