@@ -35,6 +35,11 @@ This repository documents my hands-on AWS labs as I build foundational cloud ski
 - Explored VPC structure, subnets, and network concepts
 - Reviewed how resources communicate inside AWS
 
+### [DynamoDB Basics](./dynamodb-basics)
+- Created and explored a DynamoDB table
+- Added and reviewed sample data
+- Practiced basic cloud database concepts
+
 ---
 
 ## Goal
