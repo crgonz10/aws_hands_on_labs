@@ -2,15 +2,21 @@
 
 This repository documents my hands-on AWS labs as I build foundational cloud skills and transition into a cloud/IT career.
 
+---
+
 ## Skills Demonstrated
+
 - Amazon EC2
 - AWS IAM
 - Amazon S3
 - Amazon VPC
-- Security groups
-- Static website hosting
+- Security Groups
+- Static Website Hosting
+
+---
 
 ## Labs
+
 ### EC2 Instance Launch
 - Launched and configured an EC2 instance
 - Reviewed instance settings, networking, and security groups
@@ -29,5 +35,8 @@ This repository documents my hands-on AWS labs as I build foundational cloud ski
 - Explored VPC structure, subnets, and network concepts
 - Reviewed how resources communicate inside AWS
 
+---
+
 ## Goal
+
 To build practical AWS experience and document my progress as I move into cloud and IT support roles.
